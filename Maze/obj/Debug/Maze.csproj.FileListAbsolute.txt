@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\С++\C#\Maze\bin\Debug\Maze.exe.config
+C:\Users\Admin\Desktop\С++\C#\Maze\bin\Debug\Maze.exe
+C:\Users\Admin\Desktop\С++\C#\Maze\bin\Debug\Maze.pdb
+C:\Users\Admin\Desktop\С++\C#\Maze\obj\Debug\Maze.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\С++\C#\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С++\C#\Maze\obj\Debug\Maze.exe
+C:\Users\Admin\Desktop\С++\C#\Maze\obj\Debug\Maze.pdb
+C:\Users\Admin\Desktop\С++\C#\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
